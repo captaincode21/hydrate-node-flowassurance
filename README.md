@@ -153,7 +153,7 @@ Plots are saved automatically to `images/` when `main.py` is run.
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{opeyemibisiriyu2025hydratenode,
+@misc{opeyemibisiriyu2026hydratenode,
   author       = {OPEYEMI BISIRIYU},
   title        = {Hydrate {NODE} Model: Neural ODE for Hydrate Mass Prediction},
   year         = {2026},
