@@ -145,21 +145,6 @@ layer at topside [kg/m³].
 
 Plots are saved automatically to `images/` when `main.py` is run.
 
-### Training history
-
-![Training history](images/training_history.png)
-
-### Test set — true vs predicted trajectory
-
-![Test trajectory](images/test_trajectory.png)
-
-### Test set — parity plot
-
-![Parity plot](images/parity_plot.png)
-
-
-> **Note:** Replace the placeholder image links above with your actual
-> saved plots after running the pipeline.
 
 ---
 
@@ -168,10 +153,10 @@ Plots are saved automatically to `images/` when `main.py` is run.
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{yourname2025hydratenode,
-  author       = {Your Name},
+@misc{opeyemibisiriyu2025hydratenode,
+  author       = {OPEYEMI BISIRIYU},
   title        = {Hydrate {NODE} Model: Neural ODE for Hydrate Mass Prediction},
-  year         = {2025},
-  howpublished = {\url{https://github.com/your-username/hydrate-node-model}}
+  year         = {2026},
+  howpublished = {\url{https://github.com/captaincode21/hydrate-node-flowassurance}}
 }
 ```
